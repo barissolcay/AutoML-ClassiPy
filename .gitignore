@@ -4,6 +4,3 @@ __pycache__/
 .env
 .idea/
 .vscode/
-
-creditcard.csv
-*.csv
